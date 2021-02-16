@@ -3,7 +3,7 @@
 Maven is used as build tool in this application
 1) Clone the project into your computer using (https://github.com/movvaashok/tinyurl.git)
 2) Navigate to "tinyurl" folder
-3) Open command prompt and run the command **mvn clean install** ( Maven has to be installed in system to execute **mvn package** command)
+3) Open command prompt and run the command **mvn clean install** ( Maven has to be installed in system to execute **mvn clean install** command)
    maven will run unit tests and creates a jar for the project in "target" folder
 4) tinyurl-0.0.1-SNAPSHOT.jar will be created.
 # Executing Jar
