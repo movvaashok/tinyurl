@@ -1,4 +1,8 @@
 # Tiny Url
+
+# Overview
+The aim of this project is to create a tiny url for a given long length url, and navigate back the original url when tiny url is used to search.
+
 # Building Jar
 Maven is used as build tool in this application
 1) Clone the project into your computer using (https://github.com/movvaashok/tinyurl.git)
